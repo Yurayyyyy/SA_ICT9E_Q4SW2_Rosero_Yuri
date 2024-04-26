@@ -1,0 +1,38 @@
+.cute-bg {
+    background-color: #ffd6e0;
+}
+
+.cute-font {
+    font-family: 'Indie Flower', cursive;
+}
+
+.cute-text {
+    color: #333;
+}
+
+.cute-btn {
+    background-color: #ff9ff3;
+    border-color: #ff9ff3;
+}
+
+.cute-btn:hover {
+    background-color: #ff77ff;
+    border-color: #ff77ff;
+}
+
+.cute-footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ff9ff3;
+}
+
+.gif-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cute-gif {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
